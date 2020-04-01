@@ -1,1 +1,3 @@
-# Geeks_For_Geeks_Solutions
+It contains solutions of the problems from geeks for geeks site. 
+
+Used C++ 
